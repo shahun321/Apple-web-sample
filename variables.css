@@ -1,0 +1,10 @@
+:root{
+    --text-font-size: 12px;
+    --icon-font-size: 17px;
+    --white-color: #fff;
+    --blue-color:#2997ff;
+    --nav-text-color: rgba(255,255,255,0.8);
+    --margin-10px: 10px;
+    --background-black: rgb(0,0,0);
+    --btn-color: #0071e3;
+}
